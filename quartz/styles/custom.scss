@@ -1,3 +1,26 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+// 모든 이미지 크기 자동 조절
+article img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 1.5rem auto;
+  display: block;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+// 다크모드에서 그림자 조정
+.darkmode article img {
+  box-shadow: 0 2px 8px rgba(255, 255, 255, 0.1);
+}
+
+// 작은 이미지 (인라인 아이콘 등)
+article img[alt*="icon"],
+article img[alt*="아이콘"] {
+  display: inline;
+  margin: 0 0.2rem;
+  max-width: 1.5rem;
+  vertical-align: middle;
+}
