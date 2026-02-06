@@ -1,0 +1,24 @@
+{
+  "keywords": [
+    {"ko": "블록체인", "en": "blockchain"},
+    {"ko": "암호화폐", "en": "cryptocurrency"},
+    {"ko": "메타버스", "en": "metaverse"},
+    {"ko": "인공지능", "en": "artificial intelligence"},
+    {"ko": "컴퓨터 보안", "en": "computer security"},
+    {"ko": "CVE", "en": "CVE vulnerability"},
+    {"ko": "CPE 매핑", "en": "CPE software identification mapping"}
+  ],
+  "schedule": "weekly",
+  "lastChecked": "2026-02-02T09:00:00+09:00",
+  "processedPapers": ["arxiv:2601.21593v1", "arxiv:2601.20158v1"],
+  "paths": {
+    "summaries": "~/workspace/blog/content/AI 작업물/논문 요약",
+    "prerequisites": "~/workspace/blog/content/AI 작업물/논문 사전 지식",
+    "pdfs": "~/workspace/thesis"
+  },
+  "linkingRules": {
+    "summaryToPrerequisites": true,
+    "prerequisiteToPrerequisite": true,
+    "note": "요약.md에서 사전지식으로 [[위키링크]], 사전지식끼리도 연관 있으면 연결"
+  }
+}

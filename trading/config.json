@@ -1,0 +1,13 @@
+{
+  "symbol": "BTCUSDT",
+  "leverage": 12,
+  "target_balance": 5000,
+  "check_interval": 1,
+  "risk": {
+    "max_loss_percent": 10,
+    "comment": "마진 대비 최대 손실 10%"
+  },
+  "min_rr_ratio": 1.6,
+  "auto_rebalance": true,
+  "comment": "투자금 $5000 고정, 초과분은 spot으로, 부족분은 spot에서 충당"
+}

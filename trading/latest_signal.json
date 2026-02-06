@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-02-02T21:13:53.018807",
+  "price": 77895.0,
+  "analysis": {
+    "trend": "bearish",
+    "ma_7": 77159.64,
+    "ma_25": 80696.18
+  },
+  "signal": {
+    "action": "WAIT",
+    "reason": "\uc9c0\uc9c0 \uadfc\ucc98\uc9c0\ub9cc \ud558\ub77d \ucd94\uc138 - \ud655\uc778 \ud544\uc694",
+    "entry": null,
+    "stop_loss": null,
+    "take_profit": null,
+    "risk_reward": null
+  }
+}

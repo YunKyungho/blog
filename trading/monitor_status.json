@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-02-02 21:54:04",
+  "price": 77871.1,
+  "position": null,
+  "mtf_summary": {
+    "1M": {
+      "trend": "DOWN",
+      "ma20": 90205.755
+    },
+    "1w": {
+      "trend": "DOWN",
+      "ma20": 96627.535
+    },
+    "1d": {
+      "trend": "DOWN",
+      "ma20": 88553.31
+    },
+    "4h": {
+      "trend": "DOWN",
+      "ma20": 79924.70500000002
+    },
+    "1h": {
+      "trend": "UP",
+      "ma20": 77017.89
+    },
+    "15m": {
+      "trend": "UP",
+      "ma20": 77471.225
+    },
+    "5m": {
+      "trend": "UP",
+      "ma20": 77856.57499999998
+    },
+    "1m": {
+      "trend": "UP",
+      "ma20": 77843.905
+    }
+  },
+  "support_count": 46,
+  "resistance_count": 61,
+  "alert": "SHORT_OPPORTUNITY"
+}

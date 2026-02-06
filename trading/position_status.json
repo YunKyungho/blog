@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-02-02T21:50:43.618216",
+  "balance": 1012.15831179,
+  "current_price": 77770.6,
+  "position": null,
+  "action": "\ud3ec\uc9c0\uc158 \uc5c6\uc74c - \uc9c4\uc785 \ub300\uae30 \uc911",
+  "next_order": {
+    "margin": 1012.15831179,
+    "leverage": 20,
+    "quantity": 0.26,
+    "notional": 20243.1662358
+  }
+}

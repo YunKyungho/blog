@@ -1,0 +1,17 @@
+{
+  "strategy": "strategy_adaptive_optimized",
+  "params": {
+    "sma_long": 200,
+    "sma_mid": 50,
+    "sma_short": 20,
+    "rsi_period": 14,
+    "atr_period": 14,
+    "atr_sl_mult": 2.0,
+    "atr_tp_mult": 3.0,
+    "strong_trend": 20,
+    "weak_trend": 5
+  },
+  "risk_per_trade": 0.02,
+  "max_leverage": 5,
+  "timeframe": "btc_4hour"
+}

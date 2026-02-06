@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-02-05T01:59:17.825110",
+  "best_leverage": {
+    "leverage": 5,
+    "risk_pct": 2.0,
+    "total_return": -86.41275525154708,
+    "avg_dd": 48.26663211121806
+  },
+  "best_sltp": {
+    "sl_pct": 2.0,
+    "tp_pct": 4.0,
+    "total_return": -34.90789897923915,
+    "avg_dd": 35.098731208872906
+  }
+}

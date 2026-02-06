@@ -1,0 +1,19 @@
+{
+  "position_strategy": "BOLLINGER_RSI",
+  "entry_time": "2026-02-03 14:20:49",
+  "entry_price": 78254.7,
+  "quantity": 0.091,
+  "last_check": "2026-02-05T09:01:13.355842",
+  "last_signal": {
+    "timestamp": "2026-02-04 00:00:00",
+    "price": 73149.87,
+    "rsi_momentum": 17.91,
+    "rsi_bb": 9.0,
+    "bb_mid": 86456.63,
+    "bb_upper": 96287.12,
+    "bb_lower": 76626.13,
+    "signal": "EXIT",
+    "strategy": "RSI_MOMENTUM",
+    "action": "EXIT"
+  }
+}

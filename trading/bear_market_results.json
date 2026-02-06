@@ -1,0 +1,70 @@
+{
+  "timestamp": "2026-02-05T01:58:03.182861",
+  "results": {
+    "Short Only Trend": {
+      "total_return": 18.050315724666724,
+      "avg_dd": 6.566033065979456,
+      "avg_wr": 57.72727272727273
+    },
+    "RSI Overbought Short": {
+      "total_return": 0.5091120189349745,
+      "avg_dd": 3.6198723224931806,
+      "avg_wr": 33.33333333333333
+    },
+    "BB Breakdown Short": {
+      "total_return": 10.203390552444763,
+      "avg_dd": 2.2540681753530625,
+      "avg_wr": 91.66666666666667
+    },
+    "MA Death Cross Short": {
+      "total_return": -0.24303417560939122,
+      "avg_dd": 4.07048876047511,
+      "avg_wr": 41.666666666666664
+    },
+    "Momentum Reversal Short": {
+      "total_return": 9.960397919482274,
+      "avg_dd": 5.662534456184284,
+      "avg_wr": 50.79365079365079
+    },
+    "Combined Bear": {
+      "total_return": 16.949217861200303,
+      "avg_dd": 5.334954756034794,
+      "avg_wr": 64.58333333333333
+    },
+    "Pullback Short": {
+      "total_return": -1.1892857346245367,
+      "avg_dd": 5.415106529238648,
+      "avg_wr": 56.25
+    }
+  },
+  "ranking": [
+    {
+      "name": "Combined Bear",
+      "score": 8.946785727148113
+    },
+    {
+      "name": "Short Only Trend",
+      "score": 8.20126612569754
+    },
+    {
+      "name": "BB Breakdown Short",
+      "score": 6.822288289415169
+    },
+    {
+      "name": "Momentum Reversal Short",
+      "score": 1.4665962352058468
+    },
+    {
+      "name": "RSI Overbought Short",
+      "score": -4.920696464804797
+    },
+    {
+      "name": "MA Death Cross Short",
+      "score": -6.348767316322055
+    },
+    {
+      "name": "Pullback Short",
+      "score": -9.311945528482509
+    }
+  ]
+}

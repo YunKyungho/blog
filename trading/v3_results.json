@@ -1,0 +1,1603 @@
+[
+  {
+    "name": "lev10_sl0.7_tp1.0_pb0.2_cd2",
+    "params": {
+      "leverage": 10,
+      "sl_pct": 0.7,
+      "tp_pct": 1.0,
+      "pullback_pct": 0.2,
+      "cooldown": 2
+    },
+    "results": [
+      {
+        "total_trades": 653,
+        "wins": 317,
+        "losses": 336,
+        "win_rate": 48.545176110260336,
+        "total_pnl": 37584.75188336469,
+        "final_balance": 42584.75188336469,
+        "return_pct": 751.6950376672937,
+        "max_drawdown": 21.86240350788219,
+        "signal_count": {
+          "LONG": 343,
+          "SHORT": 311
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 706,
+        "wins": 326,
+        "losses": 380,
+        "win_rate": 46.1756373937677,
+        "total_pnl": 17558.569657645163,
+        "final_balance": 22558.569657645177,
+        "return_pct": 351.17139315290353,
+        "max_drawdown": 23.141165239918326,
+        "signal_count": {
+          "LONG": 460,
+          "SHORT": 246
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 923,
+        "wins": 420,
+        "losses": 503,
+        "win_rate": 45.50379198266522,
+        "total_pnl": 21555.701163758833,
+        "final_balance": 26555.70116375882,
+        "return_pct": 431.11402327517635,
+        "max_drawdown": 38.73405678964795,
+        "signal_count": {
+          "LONG": 472,
+          "SHORT": 452
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 709,
+        "wins": 326,
+        "losses": 383,
+        "win_rate": 45.9802538787024,
+        "total_pnl": 16231.945293218927,
+        "final_balance": 21231.94529321894,
+        "return_pct": 324.63890586437884,
+        "max_drawdown": 20.945198532487534,
+        "signal_count": {
+          "LONG": 296,
+          "SHORT": 414
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 554,
+        "wins": 260,
+        "losses": 294,
+        "win_rate": 46.931407942238266,
+        "total_pnl": 14970.77535023641,
+        "final_balance": 19970.77535023642,
+        "return_pct": 299.4155070047284,
+        "max_drawdown": 20.65201101334051,
+        "signal_count": {
+          "LONG": 317,
+          "SHORT": 237
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 782,
+        "wins": 366,
+        "losses": 416,
+        "win_rate": 46.80306905370844,
+        "total_pnl": 28637.874121850797,
+        "final_balance": 33637.87412185082,
+        "return_pct": 572.7574824370165,
+        "max_drawdown": 18.640570083175863,
+        "signal_count": {
+          "LONG": 437,
+          "SHORT": 345
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 648,
+        "wins": 303,
+        "losses": 345,
+        "win_rate": 46.75925925925926,
+        "total_pnl": 18933.510953140772,
+        "final_balance": 23933.510953140743,
+        "return_pct": 378.6702190628149,
+        "max_drawdown": 23.794191377212183,
+        "signal_count": {
+          "LONG": 284,
+          "SHORT": 364
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 45.50379198266522,
+    "max_dd": 38.73405678964795,
+    "avg_trades": 710.7142857142857,
+    "avg_return": 444.20893835204464,
+    "score": 1544.2089383520447
+  },
+  {
+    "name": "lev10_sl0.5_tp0.75_pb0.3_cd4",
+    "params": {
+      "leverage": 10,
+      "sl_pct": 0.5,
+      "tp_pct": 0.75,
+      "pullback_pct": 0.3,
+      "cooldown": 4
+    },
+    "results": [
+      {
+        "total_trades": 668,
+        "wins": 300,
+        "losses": 368,
+        "win_rate": 44.91017964071856,
+        "total_pnl": 15957.20061420151,
+        "final_balance": 20957.200614201505,
+        "return_pct": 319.1440122840301,
+        "max_drawdown": 32.28168486534366,
+        "signal_count": {
+          "LONG": 347,
+          "SHORT": 322
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 718,
+        "wins": 329,
+        "losses": 389,
+        "win_rate": 45.82172701949861,
+        "total_pnl": 27311.742316902728,
+        "final_balance": 32311.74231690272,
+        "return_pct": 546.2348463380545,
+        "max_drawdown": 31.848597532178886,
+        "signal_count": {
+          "LONG": 452,
+          "SHORT": 266
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 916,
+        "wins": 392,
+        "losses": 524,
+        "win_rate": 42.79475982532751,
+        "total_pnl": 8602.719782285265,
+        "final_balance": 13602.71978228527,
+        "return_pct": 172.05439564570543,
+        "max_drawdown": 38.22815437389201,
+        "signal_count": {
+          "LONG": 475,
+          "SHORT": 442
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 745,
+        "wins": 330,
+        "losses": 415,
+        "win_rate": 44.29530201342282,
+        "total_pnl": 14682.2874163075,
+        "final_balance": 19682.287416307525,
+        "return_pct": 293.6457483261505,
+        "max_drawdown": 30.030603246595046,
+        "signal_count": {
+          "LONG": 320,
+          "SHORT": 426
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 575,
+        "wins": 254,
+        "losses": 321,
+        "win_rate": 44.173913043478265,
+        "total_pnl": 8905.780720599883,
+        "final_balance": 13905.78072059988,
+        "return_pct": 178.1156144119976,
+        "max_drawdown": 26.36293192401406,
+        "signal_count": {
+          "LONG": 329,
+          "SHORT": 246
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 804,
+        "wins": 358,
+        "losses": 446,
+        "win_rate": 44.527363184079604,
+        "total_pnl": 19072.777826204503,
+        "final_balance": 24072.777826204496,
+        "return_pct": 381.45555652408996,
+        "max_drawdown": 25.670743484099905,
+        "signal_count": {
+          "LONG": 451,
+          "SHORT": 353
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 654,
+        "wins": 303,
+        "losses": 351,
+        "win_rate": 46.330275229357795,
+        "total_pnl": 27285.064476257005,
+        "final_balance": 32285.06447625703,
+        "return_pct": 545.7012895251406,
+        "max_drawdown": 21.111518326493435,
+        "signal_count": {
+          "LONG": 289,
+          "SHORT": 365
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 42.79475982532751,
+    "max_dd": 38.22815437389201,
+    "avg_trades": 725.7142857142857,
+    "avg_return": 348.0502090078812,
+    "score": 1448.0502090078812
+  },
+  {
+    "name": "lev8_sl0.8_tp1.2_pb0.4_cd3",
+    "params": {
+      "leverage": 8,
+      "sl_pct": 0.8,
+      "tp_pct": 1.2,
+      "pullback_pct": 0.4,
+      "cooldown": 3
+    },
+    "results": [
+      {
+        "total_trades": 511,
+        "wins": 237,
+        "losses": 274,
+        "win_rate": 46.37964774951076,
+        "total_pnl": 16743.877826699914,
+        "final_balance": 21743.877826699914,
+        "return_pct": 334.87755653399824,
+        "max_drawdown": 20.521398798779217,
+        "signal_count": {
+          "LONG": 264,
+          "SHORT": 248
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 543,
+        "wins": 254,
+        "losses": 289,
+        "win_rate": 46.77716390423573,
+        "total_pnl": 21543.669093281886,
+        "final_balance": 26543.669093281907,
+        "return_pct": 430.8733818656381,
+        "max_drawdown": 32.58381486200182,
+        "signal_count": {
+          "LONG": 350,
+          "SHORT": 193
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 794,
+        "wins": 346,
+        "losses": 448,
+        "win_rate": 43.57682619647355,
+        "total_pnl": 11215.549211358493,
+        "final_balance": 16215.549211358493,
+        "return_pct": 224.31098422716985,
+        "max_drawdown": 35.392877811371356,
+        "signal_count": {
+          "LONG": 401,
+          "SHORT": 394
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 585,
+        "wins": 245,
+        "losses": 340,
+        "win_rate": 41.88034188034188,
+        "total_pnl": 2260.320498461233,
+        "final_balance": 7260.320498461229,
+        "return_pct": 45.20640996922459,
+        "max_drawdown": 29.80405545814453,
+        "signal_count": {
+          "LONG": 235,
+          "SHORT": 351
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 399,
+        "wins": 172,
+        "losses": 227,
+        "win_rate": 43.10776942355889,
+        "total_pnl": 3227.9536362730955,
+        "final_balance": 8227.95363627309,
+        "return_pct": 64.5590727254618,
+        "max_drawdown": 27.668311017528758,
+        "signal_count": {
+          "LONG": 241,
+          "SHORT": 158
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 595,
+        "wins": 266,
+        "losses": 329,
+        "win_rate": 44.70588235294118,
+        "total_pnl": 11867.498443156244,
+        "final_balance": 16867.498443156208,
+        "return_pct": 237.34996886312416,
+        "max_drawdown": 22.490495440672124,
+        "signal_count": {
+          "LONG": 325,
+          "SHORT": 270
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 467,
+        "wins": 206,
+        "losses": 261,
+        "win_rate": 44.11134903640257,
+        "total_pnl": 6309.516781430507,
+        "final_balance": 11309.516781430513,
+        "return_pct": 126.19033562861026,
+        "max_drawdown": 29.24974669790735,
+        "signal_count": {
+          "LONG": 194,
+          "SHORT": 273
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 41.88034188034188,
+    "max_dd": 35.392877811371356,
+    "avg_trades": 556.2857142857143,
+    "avg_return": 209.05252997331814,
+    "score": 1309.052529973318
+  },
+  {
+    "name": "lev12_sl0.6_tp0.9_pb0.25_cd2",
+    "params": {
+      "leverage": 12,
+      "sl_pct": 0.6,
+      "tp_pct": 0.9,
+      "pullback_pct": 0.25,
+      "cooldown": 2
+    },
+    "results": [
+      {
+        "total_trades": 678,
+        "wins": 315,
+        "losses": 363,
+        "win_rate": 46.46017699115044,
+        "total_pnl": 31121.124567189745,
+        "final_balance": 36121.124567189785,
+        "return_pct": 622.4224913437956,
+        "max_drawdown": 29.384292246259086,
+        "signal_count": {
+          "LONG": 358,
+          "SHORT": 321
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 732,
+        "wins": 338,
+        "losses": 394,
+        "win_rate": 46.17486338797814,
+        "total_pnl": 33108.84422078455,
+        "final_balance": 38108.844220784566,
+        "return_pct": 662.1768844156912,
+        "max_drawdown": 27.018539986834945,
+        "signal_count": {
+          "LONG": 470,
+          "SHORT": 262
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 940,
+        "wins": 413,
+        "losses": 527,
+        "win_rate": 43.93617021276596,
+        "total_pnl": 18816.92546357744,
+        "final_balance": 23816.92546357745,
+        "return_pct": 376.338509271549,
+        "max_drawdown": 42.23029482641506,
+        "signal_count": {
+          "LONG": 478,
+          "SHORT": 463
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 740,
+        "wins": 332,
+        "losses": 408,
+        "win_rate": 44.86486486486487,
+        "total_pnl": 19052.90239749549,
+        "final_balance": 24052.9023974955,
+        "return_pct": 381.05804794991,
+        "max_drawdown": 21.846164381310356,
+        "signal_count": {
+          "LONG": 311,
+          "SHORT": 430
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 567,
+        "wins": 247,
+        "losses": 320,
+        "win_rate": 43.56261022927689,
+        "total_pnl": 6537.420676041064,
+        "final_balance": 11537.420676041042,
+        "return_pct": 130.74841352082083,
+        "max_drawdown": 24.92893755559474,
+        "signal_count": {
+          "LONG": 325,
+          "SHORT": 242
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 817,
+        "wins": 371,
+        "losses": 446,
+        "win_rate": 45.41003671970624,
+        "total_pnl": 30351.68581420399,
+        "final_balance": 35351.68581420399,
+        "return_pct": 607.0337162840799,
+        "max_drawdown": 25.75079215675012,
+        "signal_count": {
+          "LONG": 460,
+          "SHORT": 357
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 679,
+        "wins": 303,
+        "losses": 376,
+        "win_rate": 44.62444771723123,
+        "total_pnl": 14482.897710055919,
+        "final_balance": 19482.897710055928,
+        "return_pct": 289.65795420111857,
+        "max_drawdown": 35.033371193645664,
+        "signal_count": {
+          "LONG": 299,
+          "SHORT": 380
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 43.56261022927689,
+    "max_dd": 42.23029482641506,
+    "avg_trades": 736.1428571428571,
+    "avg_return": 438.49085956956645,
+    "score": 1238.4908595695665
+  },
+  {
+    "name": "lev10_sl0.7_tp1.0_pb0.3_cd2",
+    "params": {
+      "leverage": 10,
+      "sl_pct": 0.7,
+      "tp_pct": 1.0,
+      "pullback_pct": 0.3,
+      "cooldown": 2
+    },
+    "results": [
+      {
+        "total_trades": 606,
+        "wins": 291,
+        "losses": 315,
+        "win_rate": 48.01980198019802,
+        "total_pnl": 26290.367567145982,
+        "final_balance": 31290.36756714599,
+        "return_pct": 525.8073513429198,
+        "max_drawdown": 21.86240350788219,
+        "signal_count": {
+          "LONG": 315,
+          "SHORT": 292
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 666,
+        "wins": 307,
+        "losses": 359,
+        "win_rate": 46.0960960960961,
+        "total_pnl": 15188.74385555184,
+        "final_balance": 20188.743855551835,
+        "return_pct": 303.7748771110367,
+        "max_drawdown": 28.131528122324646,
+        "signal_count": {
+          "LONG": 426,
+          "SHORT": 240
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 893,
+        "wins": 402,
+        "losses": 491,
+        "win_rate": 45.016797312430015,
+        "total_pnl": 15380.960579919363,
+        "final_balance": 20380.960579919345,
+        "return_pct": 307.6192115983869,
+        "max_drawdown": 46.158760913356254,
+        "signal_count": {
+          "LONG": 451,
+          "SHORT": 443
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 680,
+        "wins": 306,
+        "losses": 374,
+        "win_rate": 45.0,
+        "total_pnl": 9496.594032018445,
+        "final_balance": 14496.594032018444,
+        "return_pct": 189.9318806403689,
+        "max_drawdown": 23.751155991982515,
+        "signal_count": {
+          "LONG": 282,
+          "SHORT": 399
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 506,
+        "wins": 232,
+        "losses": 274,
+        "win_rate": 45.8498023715415,
+        "total_pnl": 8592.79079656213,
+        "final_balance": 13592.790796562134,
+        "return_pct": 171.8558159312427,
+        "max_drawdown": 20.26775868151229,
+        "signal_count": {
+          "LONG": 295,
+          "SHORT": 211
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 733,
+        "wins": 341,
+        "losses": 392,
+        "win_rate": 46.52114597544338,
+        "total_pnl": 22011.04049400646,
+        "final_balance": 27011.040494006484,
+        "return_pct": 440.2208098801297,
+        "max_drawdown": 21.414969137859824,
+        "signal_count": {
+          "LONG": 401,
+          "SHORT": 332
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 584,
+        "wins": 274,
+        "losses": 310,
+        "win_rate": 46.917808219178085,
+        "total_pnl": 16443.443469216614,
+        "final_balance": 21443.443469216596,
+        "return_pct": 328.8688693843319,
+        "max_drawdown": 26.036397632800494,
+        "signal_count": {
+          "LONG": 251,
+          "SHORT": 333
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 45.0,
+    "max_dd": 46.158760913356254,
+    "avg_trades": 666.8571428571429,
+    "avg_return": 324.011259412631,
+    "score": 1124.011259412631
+  },
+  {
+    "name": "lev10_sl0.7_tp1.0_pb0.3_cd4",
+    "params": {
+      "leverage": 10,
+      "sl_pct": 0.7,
+      "tp_pct": 1.0,
+      "pullback_pct": 0.3,
+      "cooldown": 4
+    },
+    "results": [
+      {
+        "total_trades": 594,
+        "wins": 285,
+        "losses": 309,
+        "win_rate": 47.97979797979798,
+        "total_pnl": 24829.60291470488,
+        "final_balance": 29829.60291470491,
+        "return_pct": 496.59205829409814,
+        "max_drawdown": 24.356305547601707,
+        "signal_count": {
+          "LONG": 309,
+          "SHORT": 286
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 650,
+        "wins": 297,
+        "losses": 353,
+        "win_rate": 45.69230769230769,
+        "total_pnl": 12195.241498151927,
+        "final_balance": 17195.241498151954,
+        "return_pct": 243.90482996303908,
+        "max_drawdown": 30.127874563371137,
+        "signal_count": {
+          "LONG": 416,
+          "SHORT": 234
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 865,
+        "wins": 389,
+        "losses": 476,
+        "win_rate": 44.971098265895954,
+        "total_pnl": 14133.11052088692,
+        "final_balance": 19133.110520886927,
+        "return_pct": 282.66221041773855,
+        "max_drawdown": 45.49599217824367,
+        "signal_count": {
+          "LONG": 439,
+          "SHORT": 427
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 663,
+        "wins": 297,
+        "losses": 366,
+        "win_rate": 44.79638009049774,
+        "total_pnl": 8223.525700813654,
+        "final_balance": 13223.525700813641,
+        "return_pct": 164.47051401627283,
+        "max_drawdown": 21.57261759175354,
+        "signal_count": {
+          "LONG": 276,
+          "SHORT": 388
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 499,
+        "wins": 228,
+        "losses": 271,
+        "win_rate": 45.69138276553106,
+        "total_pnl": 7903.055938799322,
+        "final_balance": 12903.055938799334,
+        "return_pct": 158.0611187759867,
+        "max_drawdown": 20.267758681512298,
+        "signal_count": {
+          "LONG": 289,
+          "SHORT": 210
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 718,
+        "wins": 332,
+        "losses": 386,
+        "win_rate": 46.239554317548745,
+        "total_pnl": 18663.269618276896,
+        "final_balance": 23663.26961827686,
+        "return_pct": 373.2653923655372,
+        "max_drawdown": 22.038659858988012,
+        "signal_count": {
+          "LONG": 393,
+          "SHORT": 325
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 571,
+        "wins": 269,
+        "losses": 302,
+        "win_rate": 47.110332749562176,
+        "total_pnl": 16893.42156602083,
+        "final_balance": 21893.42156602082,
+        "return_pct": 337.8684313204164,
+        "max_drawdown": 23.59788666180813,
+        "signal_count": {
+          "LONG": 248,
+          "SHORT": 323
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 44.79638009049774,
+    "max_dd": 45.49599217824367,
+    "avg_trades": 651.4285714285714,
+    "avg_return": 293.8320793075841,
+    "score": 1093.832079307584
+  },
+  {
+    "name": "lev15_sl0.7_tp1.0_pb0.3_cd4",
+    "params": {
+      "leverage": 15,
+      "sl_pct": 0.7,
+      "tp_pct": 1.0,
+      "pullback_pct": 0.3,
+      "cooldown": 4
+    },
+    "results": [
+      {
+        "total_trades": 594,
+        "wins": 285,
+        "losses": 309,
+        "win_rate": 47.97979797979798,
+        "total_pnl": 24829.60291470488,
+        "final_balance": 29829.60291470491,
+        "return_pct": 496.59205829409814,
+        "max_drawdown": 24.356305547601707,
+        "signal_count": {
+          "LONG": 309,
+          "SHORT": 286
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 650,
+        "wins": 297,
+        "losses": 353,
+        "win_rate": 45.69230769230769,
+        "total_pnl": 12195.241498151927,
+        "final_balance": 17195.241498151954,
+        "return_pct": 243.90482996303908,
+        "max_drawdown": 30.127874563371137,
+        "signal_count": {
+          "LONG": 416,
+          "SHORT": 234
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 865,
+        "wins": 389,
+        "losses": 476,
+        "win_rate": 44.971098265895954,
+        "total_pnl": 14133.11052088692,
+        "final_balance": 19133.110520886927,
+        "return_pct": 282.66221041773855,
+        "max_drawdown": 45.49599217824367,
+        "signal_count": {
+          "LONG": 439,
+          "SHORT": 427
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 663,
+        "wins": 297,
+        "losses": 366,
+        "win_rate": 44.79638009049774,
+        "total_pnl": 8223.525700813654,
+        "final_balance": 13223.525700813641,
+        "return_pct": 164.47051401627283,
+        "max_drawdown": 21.57261759175354,
+        "signal_count": {
+          "LONG": 276,
+          "SHORT": 388
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 499,
+        "wins": 228,
+        "losses": 271,
+        "win_rate": 45.69138276553106,
+        "total_pnl": 7903.055938799322,
+        "final_balance": 12903.055938799334,
+        "return_pct": 158.0611187759867,
+        "max_drawdown": 20.267758681512298,
+        "signal_count": {
+          "LONG": 289,
+          "SHORT": 210
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 718,
+        "wins": 332,
+        "losses": 386,
+        "win_rate": 46.239554317548745,
+        "total_pnl": 18663.269618276896,
+        "final_balance": 23663.26961827686,
+        "return_pct": 373.2653923655372,
+        "max_drawdown": 22.038659858988012,
+        "signal_count": {
+          "LONG": 393,
+          "SHORT": 325
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 571,
+        "wins": 269,
+        "losses": 302,
+        "win_rate": 47.110332749562176,
+        "total_pnl": 16893.42156602083,
+        "final_balance": 21893.42156602082,
+        "return_pct": 337.8684313204164,
+        "max_drawdown": 23.59788666180813,
+        "signal_count": {
+          "LONG": 248,
+          "SHORT": 323
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 44.79638009049774,
+    "max_dd": 45.49599217824367,
+    "avg_trades": 651.4285714285714,
+    "avg_return": 293.8320793075841,
+    "score": 1093.832079307584
+  },
+  {
+    "name": "lev10_sl0.7_tp1.0_pb0.3_cd8",
+    "params": {
+      "leverage": 10,
+      "sl_pct": 0.7,
+      "tp_pct": 1.0,
+      "pullback_pct": 0.3,
+      "cooldown": 8
+    },
+    "results": [
+      {
+        "total_trades": 562,
+        "wins": 267,
+        "losses": 295,
+        "win_rate": 47.50889679715303,
+        "total_pnl": 18837.58183302163,
+        "final_balance": 23837.58183302163,
+        "return_pct": 376.75163666043267,
+        "max_drawdown": 27.041189764276368,
+        "signal_count": {
+          "LONG": 293,
+          "SHORT": 270
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 619,
+        "wins": 285,
+        "losses": 334,
+        "win_rate": 46.04200323101777,
+        "total_pnl": 13001.113262333836,
+        "final_balance": 18001.11326233381,
+        "return_pct": 260.02226524667617,
+        "max_drawdown": 27.824255769928907,
+        "signal_count": {
+          "LONG": 397,
+          "SHORT": 222
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 793,
+        "wins": 363,
+        "losses": 430,
+        "win_rate": 45.775535939470366,
+        "total_pnl": 18296.47600730888,
+        "final_balance": 23296.4760073089,
+        "return_pct": 365.92952014617794,
+        "max_drawdown": 43.90707556981811,
+        "signal_count": {
+          "LONG": 412,
+          "SHORT": 382
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 627,
+        "wins": 281,
+        "losses": 346,
+        "win_rate": 44.81658692185008,
+        "total_pnl": 7620.438566515409,
+        "final_balance": 12620.438566515428,
+        "return_pct": 152.40877133030855,
+        "max_drawdown": 20.652011013340427,
+        "signal_count": {
+          "LONG": 264,
+          "SHORT": 364
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 482,
+        "wins": 222,
+        "losses": 260,
+        "win_rate": 46.058091286307054,
+        "total_pnl": 8608.147530463464,
+        "final_balance": 13608.14753046346,
+        "return_pct": 172.16295060926922,
+        "max_drawdown": 20.267758681512294,
+        "signal_count": {
+          "LONG": 275,
+          "SHORT": 207
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 667,
+        "wins": 307,
+        "losses": 360,
+        "win_rate": 46.026986506746624,
+        "total_pnl": 14784.968978441153,
+        "final_balance": 19784.968978441142,
+        "return_pct": 295.69937956882285,
+        "max_drawdown": 20.01722710144718,
+        "signal_count": {
+          "LONG": 363,
+          "SHORT": 304
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 544,
+        "wins": 253,
+        "losses": 291,
+        "win_rate": 46.50735294117647,
+        "total_pnl": 12421.097219070318,
+        "final_balance": 17421.097219070307,
+        "return_pct": 248.42194438140615,
+        "max_drawdown": 24.204252640682657,
+        "signal_count": {
+          "LONG": 242,
+          "SHORT": 302
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 44.81658692185008,
+    "max_dd": 43.90707556981811,
+    "avg_trades": 613.4285714285714,
+    "avg_return": 267.34235256329913,
+    "score": 1067.342352563299
+  },
+  {
+    "name": "lev10_sl0.7_tp1.0_pb0.5_cd4",
+    "params": {
+      "leverage": 10,
+      "sl_pct": 0.7,
+      "tp_pct": 1.0,
+      "pullback_pct": 0.5,
+      "cooldown": 4
+    },
+    "results": [
+      {
+        "total_trades": 465,
+        "wins": 225,
+        "losses": 240,
+        "win_rate": 48.38709677419355,
+        "total_pnl": 17180.986850386274,
+        "final_balance": 22180.98685038627,
+        "return_pct": 343.6197370077254,
+        "max_drawdown": 25.994628479262786,
+        "signal_count": {
+          "LONG": 237,
+          "SHORT": 229
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 504,
+        "wins": 241,
+        "losses": 263,
+        "win_rate": 47.817460317460316,
+        "total_pnl": 16874.186366996197,
+        "final_balance": 21874.186366996208,
+        "return_pct": 337.48372733992414,
+        "max_drawdown": 26.623410350000693,
+        "signal_count": {
+          "LONG": 318,
+          "SHORT": 186
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 748,
+        "wins": 335,
+        "losses": 413,
+        "win_rate": 44.786096256684495,
+        "total_pnl": 9923.894320291582,
+        "final_balance": 14923.894320291585,
+        "return_pct": 198.4778864058317,
+        "max_drawdown": 43.66725128537022,
+        "signal_count": {
+          "LONG": 373,
+          "SHORT": 376
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 537,
+        "wins": 239,
+        "losses": 298,
+        "win_rate": 44.50651769087523,
+        "total_pnl": 5194.72802985269,
+        "final_balance": 10194.72802985269,
+        "return_pct": 103.8945605970538,
+        "max_drawdown": 19.62990075096438,
+        "signal_count": {
+          "LONG": 223,
+          "SHORT": 315
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 361,
+        "wins": 160,
+        "losses": 201,
+        "win_rate": 44.32132963988919,
+        "total_pnl": 2814.9147576544174,
+        "final_balance": 7814.91475765441,
+        "return_pct": 56.298295153088205,
+        "max_drawdown": 29.626256486394315,
+        "signal_count": {
+          "LONG": 215,
+          "SHORT": 146
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 560,
+        "wins": 255,
+        "losses": 305,
+        "win_rate": 45.535714285714285,
+        "total_pnl": 8890.231275037391,
+        "final_balance": 13890.23127503739,
+        "return_pct": 177.8046255007478,
+        "max_drawdown": 27.59746792419252,
+        "signal_count": {
+          "LONG": 303,
+          "SHORT": 257
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 423,
+        "wins": 206,
+        "losses": 217,
+        "win_rate": 48.69976359338061,
+        "total_pnl": 15669.33249334762,
+        "final_balance": 20669.332493347618,
+        "return_pct": 313.3866498669524,
+        "max_drawdown": 16.67228109859985,
+        "signal_count": {
+          "LONG": 176,
+          "SHORT": 247
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 44.32132963988919,
+    "max_dd": 43.66725128537022,
+    "avg_trades": 514.0,
+    "avg_return": 218.7093545530462,
+    "score": 1018.7093545530462
+  },
+  {
+    "name": "lev10_sl1.0_tp1.5_pb0.3_cd4",
+    "params": {
+      "leverage": 10,
+      "sl_pct": 1.0,
+      "tp_pct": 1.5,
+      "pullback_pct": 0.3,
+      "cooldown": 4
+    },
+    "results": [
+      {
+        "total_trades": 471,
+        "wins": 212,
+        "losses": 259,
+        "win_rate": 45.010615711252655,
+        "total_pnl": 9060.968852040816,
+        "final_balance": 14060.968852040802,
+        "return_pct": 181.21937704081603,
+        "max_drawdown": 24.86013461634101,
+        "signal_count": {
+          "LONG": 246,
+          "SHORT": 226
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 512,
+        "wins": 236,
+        "losses": 276,
+        "win_rate": 46.09375,
+        "total_pnl": 15274.582781322291,
+        "final_balance": 20274.582781322297,
+        "return_pct": 305.49165562644595,
+        "max_drawdown": 32.281684865343756,
+        "signal_count": {
+          "LONG": 335,
+          "SHORT": 177
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 747,
+        "wins": 314,
+        "losses": 433,
+        "win_rate": 42.03480589022758,
+        "total_pnl": 3526.078690654464,
+        "final_balance": 8526.078690654454,
+        "return_pct": 70.52157381308909,
+        "max_drawdown": 43.77375477762506,
+        "signal_count": {
+          "LONG": 374,
+          "SHORT": 374
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 553,
+        "wins": 234,
+        "losses": 319,
+        "win_rate": 42.31464737793852,
+        "total_pnl": 3016.7572136892422,
+        "final_balance": 8016.757213689253,
+        "return_pct": 60.33514427378507,
+        "max_drawdown": 34.18911185241808,
+        "signal_count": {
+          "LONG": 228,
+          "SHORT": 326
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 383,
+        "wins": 173,
+        "losses": 210,
+        "win_rate": 45.16971279373368,
+        "total_pnl": 6947.7402913966225,
+        "final_balance": 11947.74029139662,
+        "return_pct": 138.9548058279324,
+        "max_drawdown": 17.89264031891041,
+        "signal_count": {
+          "LONG": 229,
+          "SHORT": 155
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 543,
+        "wins": 237,
+        "losses": 306,
+        "win_rate": 43.646408839779006,
+        "total_pnl": 6391.250998909478,
+        "final_balance": 11391.250998909478,
+        "return_pct": 127.82501997818956,
+        "max_drawdown": 35.17322708131832,
+        "signal_count": {
+          "LONG": 293,
+          "SHORT": 250
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 435,
+        "wins": 192,
+        "losses": 243,
+        "win_rate": 44.13793103448276,
+        "total_pnl": 5756.068045325444,
+        "final_balance": 10756.068045325448,
+        "return_pct": 115.12136090650895,
+        "max_drawdown": 30.56132930786195,
+        "signal_count": {
+          "LONG": 187,
+          "SHORT": 248
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 42.03480589022758,
+    "max_dd": 43.77375477762506,
+    "avg_trades": 520.5714285714286,
+    "avg_return": 142.78127678096672,
+    "score": 942.7812767809667
+  },
+  {
+    "name": "lev5_sl1.0_tp1.5_pb0.3_cd4",
+    "params": {
+      "leverage": 5,
+      "sl_pct": 1.0,
+      "tp_pct": 1.5,
+      "pullback_pct": 0.3,
+      "cooldown": 4
+    },
+    "results": [
+      {
+        "total_trades": 471,
+        "wins": 212,
+        "losses": 259,
+        "win_rate": 45.010615711252655,
+        "total_pnl": 9060.968852040816,
+        "final_balance": 14060.968852040802,
+        "return_pct": 181.21937704081603,
+        "max_drawdown": 24.86013461634101,
+        "signal_count": {
+          "LONG": 246,
+          "SHORT": 226
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 512,
+        "wins": 236,
+        "losses": 276,
+        "win_rate": 46.09375,
+        "total_pnl": 15274.582781322291,
+        "final_balance": 20274.582781322297,
+        "return_pct": 305.49165562644595,
+        "max_drawdown": 32.281684865343756,
+        "signal_count": {
+          "LONG": 335,
+          "SHORT": 177
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 747,
+        "wins": 314,
+        "losses": 433,
+        "win_rate": 42.03480589022758,
+        "total_pnl": 3526.078690654464,
+        "final_balance": 8526.078690654454,
+        "return_pct": 70.52157381308909,
+        "max_drawdown": 43.77375477762506,
+        "signal_count": {
+          "LONG": 374,
+          "SHORT": 374
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 553,
+        "wins": 234,
+        "losses": 319,
+        "win_rate": 42.31464737793852,
+        "total_pnl": 3016.7572136892422,
+        "final_balance": 8016.757213689253,
+        "return_pct": 60.33514427378507,
+        "max_drawdown": 34.18911185241808,
+        "signal_count": {
+          "LONG": 228,
+          "SHORT": 326
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 383,
+        "wins": 173,
+        "losses": 210,
+        "win_rate": 45.16971279373368,
+        "total_pnl": 6947.7402913966225,
+        "final_balance": 11947.74029139662,
+        "return_pct": 138.9548058279324,
+        "max_drawdown": 17.89264031891041,
+        "signal_count": {
+          "LONG": 229,
+          "SHORT": 155
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 543,
+        "wins": 237,
+        "losses": 306,
+        "win_rate": 43.646408839779006,
+        "total_pnl": 6391.250998909478,
+        "final_balance": 11391.250998909478,
+        "return_pct": 127.82501997818956,
+        "max_drawdown": 35.17322708131832,
+        "signal_count": {
+          "LONG": 293,
+          "SHORT": 250
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 435,
+        "wins": 192,
+        "losses": 243,
+        "win_rate": 44.13793103448276,
+        "total_pnl": 5756.068045325444,
+        "final_balance": 10756.068045325448,
+        "return_pct": 115.12136090650895,
+        "max_drawdown": 30.56132930786195,
+        "signal_count": {
+          "LONG": 187,
+          "SHORT": 248
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 42.03480589022758,
+    "max_dd": 43.77375477762506,
+    "avg_trades": 520.5714285714286,
+    "avg_return": 142.78127678096672,
+    "score": 942.7812767809667
+  },
+  {
+    "name": "lev10_sl1.0_tp2.0_pb0.3_cd4",
+    "params": {
+      "leverage": 10,
+      "sl_pct": 1.0,
+      "tp_pct": 2.0,
+      "pullback_pct": 0.3,
+      "cooldown": 4
+    },
+    "results": [
+      {
+        "total_trades": 425,
+        "wins": 168,
+        "losses": 257,
+        "win_rate": 39.52941176470588,
+        "total_pnl": 15214.9401331665,
+        "final_balance": 20214.94013316652,
+        "return_pct": 304.29880266333043,
+        "max_drawdown": 22.08414289991964,
+        "signal_count": {
+          "LONG": 223,
+          "SHORT": 203
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 461,
+        "wins": 179,
+        "losses": 282,
+        "win_rate": 38.82863340563991,
+        "total_pnl": 13779.805243974835,
+        "final_balance": 18779.80524397483,
+        "return_pct": 275.59610487949664,
+        "max_drawdown": 28.557341236614004,
+        "signal_count": {
+          "LONG": 304,
+          "SHORT": 157
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 703,
+        "wins": 247,
+        "losses": 456,
+        "win_rate": 35.13513513513514,
+        "total_pnl": 3040.727181054381,
+        "final_balance": 8040.727181054409,
+        "return_pct": 60.81454362108818,
+        "max_drawdown": 42.70423187029758,
+        "signal_count": {
+          "LONG": 350,
+          "SHORT": 354
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 500,
+        "wins": 180,
+        "losses": 320,
+        "win_rate": 36.0,
+        "total_pnl": 4063.904055283342,
+        "final_balance": 9063.904055283343,
+        "return_pct": 81.27808110566687,
+        "max_drawdown": 27.79152177496897,
+        "signal_count": {
+          "LONG": 211,
+          "SHORT": 290
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 341,
+        "wins": 127,
+        "losses": 214,
+        "win_rate": 37.24340175953079,
+        "total_pnl": 4651.266178507932,
+        "final_balance": 9651.266178507925,
+        "return_pct": 93.0253235701585,
+        "max_drawdown": 23.279757769901337,
+        "signal_count": {
+          "LONG": 206,
+          "SHORT": 136
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 467,
+        "wins": 172,
+        "losses": 295,
+        "win_rate": 36.83083511777302,
+        "total_pnl": 5974.8019817163095,
+        "final_balance": 10974.80198171632,
+        "return_pct": 119.4960396343264,
+        "max_drawdown": 35.11066995708142,
+        "signal_count": {
+          "LONG": 256,
+          "SHORT": 211
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 367,
+        "wins": 140,
+        "losses": 227,
+        "win_rate": 38.14713896457766,
+        "total_pnl": 7358.24180119054,
+        "final_balance": 12358.24180119053,
+        "return_pct": 147.1648360238106,
+        "max_drawdown": 27.18564218835683,
+        "signal_count": {
+          "LONG": 156,
+          "SHORT": 211
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": true,
+    "min_wr": 35.13513513513514,
+    "max_dd": 42.70423187029758,
+    "avg_trades": 466.2857142857143,
+    "avg_return": 154.5248187854111,
+    "score": 754.5248187854111
+  },
+  {
+    "name": "lev10_sl0.7_tp1.5_pb0.3_cd4_trail",
+    "params": {
+      "leverage": 10,
+      "sl_pct": 0.7,
+      "tp_pct": 1.5,
+      "pullback_pct": 0.3,
+      "cooldown": 4,
+      "trailing": true,
+      "trailing_pct": 0.5
+    },
+    "results": [
+      {
+        "total_trades": 713,
+        "wins": 292,
+        "losses": 421,
+        "win_rate": 40.95371669004207,
+        "total_pnl": 3679.635314286939,
+        "final_balance": 8679.635314286923,
+        "return_pct": 73.59270628573846,
+        "max_drawdown": 20.92239147554727,
+        "signal_count": {
+          "LONG": 372,
+          "SHORT": 342
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 794,
+        "wins": 297,
+        "losses": 497,
+        "win_rate": 37.405541561712845,
+        "total_pnl": -1349.5210811021257,
+        "final_balance": 3650.4789188978702,
+        "return_pct": -26.990421622042593,
+        "max_drawdown": 47.83087363712575,
+        "signal_count": {
+          "LONG": 498,
+          "SHORT": 296
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 945,
+        "wins": 398,
+        "losses": 547,
+        "win_rate": 42.11640211640212,
+        "total_pnl": 5308.948481852445,
+        "final_balance": 10308.948481852467,
+        "return_pct": 106.17896963704933,
+        "max_drawdown": 38.19217664932928,
+        "signal_count": {
+          "LONG": 493,
+          "SHORT": 452
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 794,
+        "wins": 310,
+        "losses": 484,
+        "win_rate": 39.042821158690174,
+        "total_pnl": -1938.9420129532257,
+        "final_balance": 3061.057987046768,
+        "return_pct": -38.77884025906464,
+        "max_drawdown": 54.179182065715324,
+        "signal_count": {
+          "LONG": 341,
+          "SHORT": 454
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 638,
+        "wins": 270,
+        "losses": 368,
+        "win_rate": 42.31974921630094,
+        "total_pnl": -443.21430924727,
+        "final_balance": 4556.785690752728,
+        "return_pct": -8.864286184945431,
+        "max_drawdown": 26.825899534531285,
+        "signal_count": {
+          "LONG": 362,
+          "SHORT": 276
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 882,
+        "wins": 346,
+        "losses": 536,
+        "win_rate": 39.229024943310655,
+        "total_pnl": -3134.1451141334323,
+        "final_balance": 1865.854885866565,
+        "return_pct": -62.68290228266871,
+        "max_drawdown": 66.01301037386732,
+        "signal_count": {
+          "LONG": 500,
+          "SHORT": 382
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 744,
+        "wins": 295,
+        "losses": 449,
+        "win_rate": 39.6505376344086,
+        "total_pnl": -1750.1071344011777,
+        "final_balance": 3249.892865598828,
+        "return_pct": -35.00214268802344,
+        "max_drawdown": 46.27725475337467,
+        "signal_count": {
+          "LONG": 323,
+          "SHORT": 421
+        },
+        "year": "2025"
+      }
+    ],
+    "all_profitable": false,
+    "min_wr": 37.405541561712845,
+    "max_dd": 66.01301037386732,
+    "avg_trades": 787.1428571428571,
+    "avg_return": 1.0647261265775723,
+    "score": 101.06472612657757
+  }
+]

@@ -1,0 +1,1242 @@
+[
+  {
+    "name": "range_1.5",
+    "config": {
+      "name": "range_1.5",
+      "trend_ma_short": 20,
+      "trend_ma_long": 50,
+      "use_dual_ma": true,
+      "rr_ratio": 2.0,
+      "nearby_range_pct": 1.5,
+      "cluster_threshold": 0.3
+    },
+    "results": [
+      {
+        "total_trades": 68,
+        "wins": 28,
+        "losses": 40,
+        "win_rate": 41.17647058823529,
+        "total_pnl": 88618.02730998407,
+        "final_balance": 93618.02730998407,
+        "return_pct": 1772.3605461996815,
+        "max_drawdown": 65.38095764314993,
+        "avg_win": 6407.316695563306,
+        "avg_loss": -2269.6710041447122,
+        "signal_count": {
+          "LONG": 47,
+          "SHORT": 21
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 53,
+        "wins": 22,
+        "losses": 31,
+        "win_rate": 41.509433962264154,
+        "total_pnl": 38492.7275587247,
+        "final_balance": 43492.72755872471,
+        "return_pct": 769.8545511744943,
+        "max_drawdown": 79.45672295393904,
+        "avg_win": 4875.3526547324245,
+        "avg_loss": -2218.226801464149,
+        "signal_count": {
+          "LONG": 45,
+          "SHORT": 8
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 42,
+        "wins": 18,
+        "losses": 24,
+        "win_rate": 42.857142857142854,
+        "total_pnl": 32100.124622596675,
+        "final_balance": 37100.12462259668,
+        "return_pct": 642.0024924519337,
+        "max_drawdown": 71.17973248083734,
+        "avg_win": 4591.364442052675,
+        "avg_loss": -2106.0181389313125,
+        "signal_count": {
+          "LONG": 26,
+          "SHORT": 16
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 50,
+        "wins": 22,
+        "losses": 28,
+        "win_rate": 44.0,
+        "total_pnl": 11501.045300638816,
+        "final_balance": 16501.045300638816,
+        "return_pct": 230.02090601277635,
+        "max_drawdown": 74.68027620550224,
+        "avg_win": 3452.5195765567773,
+        "avg_loss": -2301.9423351289383,
+        "signal_count": {
+          "LONG": 19,
+          "SHORT": 31
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 65,
+        "wins": 27,
+        "losses": 38,
+        "win_rate": 41.53846153846154,
+        "total_pnl": 30665.43941439403,
+        "final_balance": 35665.43941439403,
+        "return_pct": 613.3087882878806,
+        "max_drawdown": 78.51140664126254,
+        "avg_win": 3925.5105155170236,
+        "avg_loss": -1982.1932764359376,
+        "signal_count": {
+          "LONG": 40,
+          "SHORT": 25
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 49,
+        "wins": 23,
+        "losses": 26,
+        "win_rate": 46.93877551020408,
+        "total_pnl": 31017.542840822865,
+        "final_balance": 36017.542840822876,
+        "return_pct": 620.3508568164575,
+        "max_drawdown": 66.52763009180657,
+        "avg_win": 5705.514418853441,
+        "avg_loss": -3854.2034151079342,
+        "signal_count": {
+          "LONG": 33,
+          "SHORT": 16
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 44,
+        "wins": 17,
+        "losses": 27,
+        "win_rate": 38.63636363636363,
+        "total_pnl": 17.272096605195657,
+        "final_balance": 5017.2720966052,
+        "return_pct": 0.3454419321040041,
+        "max_drawdown": 84.29836405641903,
+        "avg_win": 1769.0851865339519,
+        "avg_loss": -1113.2287434989623,
+        "signal_count": {
+          "LONG": 17,
+          "SHORT": 27
+        },
+        "year": "2025"
+      }
+    ],
+    "score": 1688.6198876225983,
+    "all_profitable": true,
+    "min_wr": 38.63636363636363,
+    "max_dd": 84.29836405641903,
+    "avg_return": 664.0347975536182
+  },
+  {
+    "name": "ma_20_100",
+    "config": {
+      "name": "ma_20_100",
+      "trend_ma_short": 20,
+      "trend_ma_long": 100,
+      "use_dual_ma": true,
+      "rr_ratio": 2.0,
+      "nearby_range_pct": 0.8,
+      "cluster_threshold": 0.3
+    },
+    "results": [
+      {
+        "total_trades": 62,
+        "wins": 22,
+        "losses": 40,
+        "win_rate": 35.483870967741936,
+        "total_pnl": 818.3693019697412,
+        "final_balance": 5818.36930196974,
+        "return_pct": 16.367386039394805,
+        "max_drawdown": 79.14641047264107,
+        "avg_win": 1641.6895836145125,
+        "avg_loss": -882.4700384387382,
+        "signal_count": {
+          "LONG": 31,
+          "SHORT": 31
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 34,
+        "wins": 15,
+        "losses": 19,
+        "win_rate": 44.11764705882353,
+        "total_pnl": 15186.782638684854,
+        "final_balance": 20186.782638684854,
+        "return_pct": 303.7356527736971,
+        "max_drawdown": 58.760661429638404,
+        "avg_win": 2332.2032002495393,
+        "avg_loss": -1041.9087034241177,
+        "signal_count": {
+          "LONG": 34,
+          "SHORT": 0
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 23,
+        "wins": 9,
+        "losses": 14,
+        "win_rate": 39.130434782608695,
+        "total_pnl": 558.0047741734177,
+        "final_balance": 5558.004774173419,
+        "return_pct": 11.160095483468377,
+        "max_drawdown": 47.65169144205373,
+        "avg_win": 1104.5670551342535,
+        "avg_loss": -670.2213372882046,
+        "signal_count": {
+          "LONG": 15,
+          "SHORT": 8
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 29,
+        "wins": 14,
+        "losses": 15,
+        "win_rate": 48.275862068965516,
+        "total_pnl": 7705.992380873385,
+        "final_balance": 12705.99238087339,
+        "return_pct": 154.11984761746777,
+        "max_drawdown": 39.99566423964255,
+        "avg_win": 2338.533822807723,
+        "avg_loss": -1668.898742562316,
+        "signal_count": {
+          "LONG": 0,
+          "SHORT": 30
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 45,
+        "wins": 23,
+        "losses": 22,
+        "win_rate": 51.11111111111111,
+        "total_pnl": 56686.81918143322,
+        "final_balance": 61686.81918143322,
+        "return_pct": 1133.7363836286643,
+        "max_drawdown": 60.931360902693854,
+        "avg_win": 5549.421776343974,
+        "avg_loss": -3224.994621567192,
+        "signal_count": {
+          "LONG": 25,
+          "SHORT": 20
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 26,
+        "wins": 9,
+        "losses": 17,
+        "win_rate": 34.61538461538461,
+        "total_pnl": 1339.8881378151384,
+        "final_balance": 6339.888137815139,
+        "return_pct": 26.797762756302784,
+        "max_drawdown": 40.59293960588865,
+        "avg_win": 1271.5334941742951,
+        "avg_loss": -594.3478417502071,
+        "signal_count": {
+          "LONG": 20,
+          "SHORT": 6
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 32,
+        "wins": 13,
+        "losses": 19,
+        "win_rate": 40.625,
+        "total_pnl": 2736.881461755411,
+        "final_balance": 7736.88146175541,
+        "return_pct": 54.7376292351082,
+        "max_drawdown": 51.41116654828992,
+        "avg_win": 1747.3381094800957,
+        "avg_loss": -1051.5007348150436,
+        "signal_count": {
+          "LONG": 13,
+          "SHORT": 19
+        },
+        "year": "2025"
+      }
+    ],
+    "score": 1257.73478177937,
+    "all_profitable": true,
+    "min_wr": 34.61538461538461,
+    "max_dd": 79.14641047264107,
+    "avg_return": 242.95067964772903
+  },
+  {
+    "name": "ma_50_200",
+    "config": {
+      "name": "ma_50_200",
+      "trend_ma_short": 50,
+      "trend_ma_long": 200,
+      "use_dual_ma": true,
+      "rr_ratio": 2.0,
+      "nearby_range_pct": 0.8,
+      "cluster_threshold": 0.3
+    },
+    "results": [
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2019"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2020"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2021"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2022"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2023"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2024"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2025"
+      }
+    ],
+    "score": 1000.0,
+    "all_profitable": true,
+    "min_wr": 0,
+    "max_dd": 0,
+    "avg_return": 0.0
+  },
+  {
+    "name": "combo2",
+    "config": {
+      "name": "combo2",
+      "trend_ma_short": 50,
+      "trend_ma_long": 200,
+      "use_dual_ma": true,
+      "rr_ratio": 1.5,
+      "nearby_range_pct": 1.2,
+      "cluster_threshold": 0.5
+    },
+    "results": [
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2019"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2020"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2021"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2022"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2023"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2024"
+      },
+      {
+        "total_trades": 0,
+        "win_rate": 0,
+        "return_pct": 0,
+        "max_drawdown": 0,
+        "year": "2025"
+      }
+    ],
+    "score": 1000.0,
+    "all_profitable": true,
+    "min_wr": 0,
+    "max_dd": 0,
+    "avg_return": 0.0
+  },
+  {
+    "name": "combo1",
+    "config": {
+      "name": "combo1",
+      "trend_ma_short": 20,
+      "trend_ma_long": 100,
+      "use_dual_ma": true,
+      "rr_ratio": 1.5,
+      "nearby_range_pct": 1.0,
+      "cluster_threshold": 0.4
+    },
+    "results": [
+      {
+        "total_trades": 76,
+        "wins": 36,
+        "losses": 40,
+        "win_rate": 47.368421052631575,
+        "total_pnl": 47596.65882522826,
+        "final_balance": 52596.658825228275,
+        "return_pct": 951.9331765045655,
+        "max_drawdown": 66.68332217781602,
+        "avg_win": 4106.004138739865,
+        "avg_loss": -2505.4872542351723,
+        "signal_count": {
+          "LONG": 42,
+          "SHORT": 34
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 48,
+        "wins": 25,
+        "losses": 23,
+        "win_rate": 52.083333333333336,
+        "total_pnl": 49437.14740888488,
+        "final_balance": 54437.14740888486,
+        "return_pct": 988.7429481776973,
+        "max_drawdown": 48.55055165386456,
+        "avg_win": 3804.275595448475,
+        "avg_loss": -1985.6409772750872,
+        "signal_count": {
+          "LONG": 48,
+          "SHORT": 0
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 39,
+        "wins": 14,
+        "losses": 25,
+        "win_rate": 35.8974358974359,
+        "total_pnl": -4152.1868288097985,
+        "final_balance": 847.8131711902004,
+        "return_pct": -83.043736576196,
+        "max_drawdown": 87.50704675683428,
+        "avg_win": 397.6345112282282,
+        "avg_loss": -388.76279944019984,
+        "signal_count": {
+          "LONG": 25,
+          "SHORT": 14
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 43,
+        "wins": 21,
+        "losses": 22,
+        "win_rate": 48.837209302325576,
+        "total_pnl": 2563.291317850197,
+        "final_balance": 7563.291317850197,
+        "return_pct": 51.26582635700393,
+        "max_drawdown": 60.33282549462513,
+        "avg_win": 1694.379751346439,
+        "avg_loss": -1500.8492482011375,
+        "signal_count": {
+          "LONG": 0,
+          "SHORT": 44
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 53,
+        "wins": 28,
+        "losses": 25,
+        "win_rate": 52.83018867924528,
+        "total_pnl": 32376.80835340463,
+        "final_balance": 37376.80835340462,
+        "return_pct": 647.5361670680925,
+        "max_drawdown": 60.36187850336772,
+        "avg_win": 2814.6095926617845,
+        "avg_loss": -1857.2904096450136,
+        "signal_count": {
+          "LONG": 31,
+          "SHORT": 22
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 42,
+        "wins": 20,
+        "losses": 22,
+        "win_rate": 47.61904761904761,
+        "total_pnl": 16091.565952351753,
+        "final_balance": 21091.565952351753,
+        "return_pct": 321.8313190470351,
+        "max_drawdown": 42.36893592074376,
+        "avg_win": 2171.605154865705,
+        "avg_loss": -1242.7516884073793,
+        "signal_count": {
+          "LONG": 33,
+          "SHORT": 9
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 42,
+        "wins": 20,
+        "losses": 22,
+        "win_rate": 47.61904761904761,
+        "total_pnl": 3140.8302973027667,
+        "final_balance": 8140.8302973027685,
+        "return_pct": 62.81660594605537,
+        "max_drawdown": 55.478464240596594,
+        "avg_win": 1352.5318465743653,
+        "avg_loss": -1086.8093924629336,
+        "signal_count": {
+          "LONG": 15,
+          "SHORT": 27
+        },
+        "year": "2025"
+      }
+    ],
+    "score": 424.6277011912615,
+    "all_profitable": false,
+    "min_wr": 35.8974358974359,
+    "max_dd": 87.50704675683428,
+    "avg_return": 420.1546152177506
+  },
+  {
+    "name": "cluster_0.5",
+    "config": {
+      "name": "cluster_0.5",
+      "trend_ma_short": 20,
+      "trend_ma_long": 50,
+      "use_dual_ma": true,
+      "rr_ratio": 2.0,
+      "nearby_range_pct": 0.8,
+      "cluster_threshold": 0.5
+    },
+    "results": [
+      {
+        "total_trades": 92,
+        "wins": 37,
+        "losses": 55,
+        "win_rate": 40.21739130434783,
+        "total_pnl": 31234.38639961103,
+        "final_balance": 36234.38639961103,
+        "return_pct": 624.6877279922206,
+        "max_drawdown": 75.20006902751106,
+        "avg_win": 4606.962707556377,
+        "avg_loss": -2531.331523272271,
+        "signal_count": {
+          "LONG": 57,
+          "SHORT": 35
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 48,
+        "wins": 16,
+        "losses": 32,
+        "win_rate": 33.33333333333333,
+        "total_pnl": 1288.4508058352803,
+        "final_balance": 6288.45080583528,
+        "return_pct": 25.769016116705608,
+        "max_drawdown": 67.28339505353705,
+        "avg_win": 996.7701097867714,
+        "avg_loss": -458.1209672110331,
+        "signal_count": {
+          "LONG": 39,
+          "SHORT": 9
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 53,
+        "wins": 15,
+        "losses": 38,
+        "win_rate": 28.30188679245283,
+        "total_pnl": -4733.0845897498275,
+        "final_balance": 266.9154102501702,
+        "return_pct": -94.66169179499659,
+        "max_drawdown": 96.60939714341168,
+        "avg_win": 240.11593403703662,
+        "avg_loss": -219.33746316593107,
+        "signal_count": {
+          "LONG": 31,
+          "SHORT": 22
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 62,
+        "wins": 23,
+        "losses": 39,
+        "win_rate": 37.096774193548384,
+        "total_pnl": 1231.7182284774312,
+        "final_balance": 6231.718228477424,
+        "return_pct": 24.634364569548488,
+        "max_drawdown": 80.55194027344797,
+        "avg_win": 2198.728759470358,
+        "avg_loss": -1265.10367280361,
+        "signal_count": {
+          "LONG": 20,
+          "SHORT": 42
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 76,
+        "wins": 33,
+        "losses": 43,
+        "win_rate": 43.42105263157895,
+        "total_pnl": 50448.407517998436,
+        "final_balance": 55448.407517998436,
+        "return_pct": 1008.9681503599687,
+        "max_drawdown": 79.2196931241841,
+        "avg_win": 7498.778421508406,
+        "avg_loss": -4581.657683529742,
+        "signal_count": {
+          "LONG": 45,
+          "SHORT": 31
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 61,
+        "wins": 25,
+        "losses": 36,
+        "win_rate": 40.98360655737705,
+        "total_pnl": 24867.69285934904,
+        "final_balance": 29867.69285934904,
+        "return_pct": 497.3538571869808,
+        "max_drawdown": 55.596950692245215,
+        "avg_win": 3146.0100547654183,
+        "avg_loss": -1493.9599586051786,
+        "signal_count": {
+          "LONG": 40,
+          "SHORT": 21
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 57,
+        "wins": 25,
+        "losses": 32,
+        "win_rate": 43.859649122807014,
+        "total_pnl": 36070.66358880465,
+        "final_balance": 41070.66358880465,
+        "return_pct": 721.413271776093,
+        "max_drawdown": 50.020995845474104,
+        "avg_win": 4904.275328764607,
+        "avg_loss": -2704.2568634472045,
+        "signal_count": {
+          "LONG": 20,
+          "SHORT": 37
+        },
+        "year": "2025"
+      }
+    ],
+    "score": 349.4570248478009,
+    "all_profitable": false,
+    "min_wr": 28.30188679245283,
+    "max_dd": 96.60939714341168,
+    "avg_return": 401.1663851723601
+  },
+  {
+    "name": "rr_1.5",
+    "config": {
+      "name": "rr_1.5",
+      "trend_ma_short": 20,
+      "trend_ma_long": 50,
+      "use_dual_ma": true,
+      "rr_ratio": 1.5,
+      "nearby_range_pct": 0.8,
+      "cluster_threshold": 0.3
+    },
+    "results": [
+      {
+        "total_trades": 76,
+        "wins": 35,
+        "losses": 41,
+        "win_rate": 46.05263157894737,
+        "total_pnl": 8976.946547452617,
+        "final_balance": 13976.946547452615,
+        "return_pct": 179.53893094905231,
+        "max_drawdown": 73.35976443330892,
+        "avg_win": 1743.9141712194714,
+        "avg_loss": -1269.757303542168,
+        "signal_count": {
+          "LONG": 51,
+          "SHORT": 25
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 42,
+        "wins": 17,
+        "losses": 25,
+        "win_rate": 40.476190476190474,
+        "total_pnl": 993.0341596615347,
+        "final_balance": 5993.034159661534,
+        "return_pct": 19.860683193230688,
+        "max_drawdown": 74.15333134660729,
+        "avg_win": 524.9676202413403,
+        "avg_loss": -317.2566153776501,
+        "signal_count": {
+          "LONG": 35,
+          "SHORT": 7
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 34,
+        "wins": 13,
+        "losses": 21,
+        "win_rate": 38.23529411764706,
+        "total_pnl": -2556.2987469593227,
+        "final_balance": 2443.7012530406773,
+        "return_pct": -51.125974939186456,
+        "max_drawdown": 70.35682466454335,
+        "avg_win": 412.938822859465,
+        "avg_loss": -377.3573068634461,
+        "signal_count": {
+          "LONG": 22,
+          "SHORT": 12
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 48,
+        "wins": 26,
+        "losses": 22,
+        "win_rate": 54.166666666666664,
+        "total_pnl": 31824.45549773667,
+        "final_balance": 36824.45549773667,
+        "return_pct": 636.4891099547334,
+        "max_drawdown": 44.48440368193538,
+        "avg_win": 3956.4531290112927,
+        "avg_loss": -3229.2420843889518,
+        "signal_count": {
+          "LONG": 16,
+          "SHORT": 32
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 64,
+        "wins": 30,
+        "losses": 34,
+        "win_rate": 46.875,
+        "total_pnl": 14472.038551595726,
+        "final_balance": 19472.03855159573,
+        "return_pct": 289.4407710319146,
+        "max_drawdown": 80.128547046176,
+        "avg_win": 2089.2484602680274,
+        "avg_loss": -1417.8063310719149,
+        "signal_count": {
+          "LONG": 38,
+          "SHORT": 26
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 41,
+        "wins": 22,
+        "losses": 19,
+        "win_rate": 53.65853658536586,
+        "total_pnl": 10493.102823089916,
+        "final_balance": 15493.102823089916,
+        "return_pct": 209.8620564617983,
+        "max_drawdown": 40.59293960588865,
+        "avg_win": 1641.177356247978,
+        "avg_loss": -1348.0420533876636,
+        "signal_count": {
+          "LONG": 27,
+          "SHORT": 14
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 48,
+        "wins": 24,
+        "losses": 24,
+        "win_rate": 50.0,
+        "total_pnl": 7821.227007919207,
+        "final_balance": 12821.227007919206,
+        "return_pct": 156.4245401583841,
+        "max_drawdown": 47.554699877501044,
+        "avg_win": 1622.997710388209,
+        "avg_loss": -1297.1132517249087,
+        "signal_count": {
+          "LONG": 16,
+          "SHORT": 32
+        },
+        "year": "2025"
+      }
+    ],
+    "score": 236.70367889730147,
+    "all_profitable": false,
+    "min_wr": 38.23529411764706,
+    "max_dd": 80.128547046176,
+    "avg_return": 205.78430240141816
+  },
+  {
+    "name": "baseline",
+    "config": {
+      "name": "baseline",
+      "trend_ma_short": 20,
+      "trend_ma_long": 50,
+      "use_dual_ma": true,
+      "rr_ratio": 2.0,
+      "nearby_range_pct": 0.8,
+      "cluster_threshold": 0.3
+    },
+    "results": [
+      {
+        "total_trades": 72,
+        "wins": 28,
+        "losses": 44,
+        "win_rate": 38.88888888888889,
+        "total_pnl": 4524.096789965148,
+        "final_balance": 9524.09678996515,
+        "return_pct": 90.48193579930299,
+        "max_drawdown": 78.85021369412493,
+        "avg_win": 2056.5662322359494,
+        "avg_loss": -1205.9035843782144,
+        "signal_count": {
+          "LONG": 46,
+          "SHORT": 26
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 41,
+        "wins": 14,
+        "losses": 27,
+        "win_rate": 34.146341463414636,
+        "total_pnl": 441.962869172085,
+        "final_balance": 5441.962869172086,
+        "return_pct": 8.839257383441728,
+        "max_drawdown": 75.39996231775321,
+        "avg_win": 789.1486325765802,
+        "avg_loss": -392.8191847000016,
+        "signal_count": {
+          "LONG": 34,
+          "SHORT": 7
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 32,
+        "wins": 11,
+        "losses": 21,
+        "win_rate": 34.375,
+        "total_pnl": -2218.9235829594995,
+        "final_balance": 2781.0764170405014,
+        "return_pct": -44.37847165918997,
+        "max_drawdown": 66.57541931099105,
+        "avg_win": 543.1229120288986,
+        "avg_loss": -390.1559816798754,
+        "signal_count": {
+          "LONG": 20,
+          "SHORT": 12
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 45,
+        "wins": 21,
+        "losses": 24,
+        "win_rate": 46.666666666666664,
+        "total_pnl": 34769.304302867466,
+        "final_balance": 39769.30430286748,
+        "return_pct": 695.3860860573495,
+        "max_drawdown": 49.5476506085428,
+        "avg_win": 5318.0733340566585,
+        "avg_loss": -3204.5931546800985,
+        "signal_count": {
+          "LONG": 16,
+          "SHORT": 29
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 63,
+        "wins": 26,
+        "losses": 37,
+        "win_rate": 41.269841269841265,
+        "total_pnl": 18197.76088942173,
+        "final_balance": 23197.760889421723,
+        "return_pct": 363.9552177884345,
+        "max_drawdown": 79.36239946835859,
+        "avg_win": 3306.7046610699767,
+        "avg_loss": -1831.7989269837208,
+        "signal_count": {
+          "LONG": 38,
+          "SHORT": 25
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 38,
+        "wins": 18,
+        "losses": 20,
+        "win_rate": 47.368421052631575,
+        "total_pnl": 14346.025763532274,
+        "final_balance": 19346.025763532278,
+        "return_pct": 286.9205152706455,
+        "max_drawdown": 40.59293960588865,
+        "avg_win": 2382.1364244904494,
+        "avg_loss": -1426.6214938647904,
+        "signal_count": {
+          "LONG": 24,
+          "SHORT": 14
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 44,
+        "wins": 17,
+        "losses": 27,
+        "win_rate": 38.63636363636363,
+        "total_pnl": 1196.5911922719465,
+        "final_balance": 6196.591192271946,
+        "return_pct": 23.93182384543892,
+        "max_drawdown": 49.73292545305163,
+        "avg_win": 1207.272627145251,
+        "avg_loss": -715.8164247850858,
+        "signal_count": {
+          "LONG": 16,
+          "SHORT": 28
+        },
+        "year": "2025"
+      }
+    ],
+    "score": 215.59781759255932,
+    "all_profitable": false,
+    "min_wr": 34.146341463414636,
+    "max_dd": 79.36239946835859,
+    "avg_return": 203.59090921220331
+  },
+  {
+    "name": "range_1.0",
+    "config": {
+      "name": "range_1.0",
+      "trend_ma_short": 20,
+      "trend_ma_long": 50,
+      "use_dual_ma": true,
+      "rr_ratio": 2.0,
+      "nearby_range_pct": 1.0,
+      "cluster_threshold": 0.3
+    },
+    "results": [
+      {
+        "total_trades": 70,
+        "wins": 26,
+        "losses": 44,
+        "win_rate": 37.142857142857146,
+        "total_pnl": 1770.6970325354896,
+        "final_balance": 6770.697032535487,
+        "return_pct": 35.41394065070973,
+        "max_drawdown": 78.85021369412493,
+        "avg_win": 1724.337104503282,
+        "avg_loss": -978.6833564670419,
+        "signal_count": {
+          "LONG": 46,
+          "SHORT": 24
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 47,
+        "wins": 19,
+        "losses": 28,
+        "win_rate": 40.42553191489361,
+        "total_pnl": 19628.156449612143,
+        "final_balance": 24628.156449612143,
+        "return_pct": 392.5631289922428,
+        "max_drawdown": 81.55415915738689,
+        "avg_win": 2157.980258782091,
+        "avg_loss": -763.3381595445568,
+        "signal_count": {
+          "LONG": 40,
+          "SHORT": 7
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 34,
+        "wins": 13,
+        "losses": 21,
+        "win_rate": 38.23529411764706,
+        "total_pnl": -207.3907945163719,
+        "final_balance": 4792.609205483629,
+        "return_pct": -4.14781589032742,
+        "max_drawdown": 70.47387949314044,
+        "avg_win": 781.4849481709379,
+        "avg_loss": -493.6521486065983,
+        "signal_count": {
+          "LONG": 22,
+          "SHORT": 12
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 46,
+        "wins": 20,
+        "losses": 26,
+        "win_rate": 43.47826086956522,
+        "total_pnl": 14137.342005971603,
+        "final_balance": 19137.342005971594,
+        "return_pct": 282.74684011943185,
+        "max_drawdown": 56.90504452198938,
+        "avg_win": 4748.235404121227,
+        "avg_loss": -3108.744849094343,
+        "signal_count": {
+          "LONG": 16,
+          "SHORT": 30
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 62,
+        "wins": 25,
+        "losses": 37,
+        "win_rate": 40.32258064516129,
+        "total_pnl": 11342.351280700193,
+        "final_balance": 16342.351280700188,
+        "return_pct": 226.84702561400374,
+        "max_drawdown": 79.61683552974894,
+        "avg_win": 2532.1166876031884,
+        "avg_loss": -1404.339619172419,
+        "signal_count": {
+          "LONG": 37,
+          "SHORT": 25
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 42,
+        "wins": 18,
+        "losses": 24,
+        "win_rate": 42.857142857142854,
+        "total_pnl": 3087.2258260626895,
+        "final_balance": 8087.225826062693,
+        "return_pct": 61.744516521253864,
+        "max_drawdown": 47.81319327275531,
+        "avg_win": 1380.3756089376532,
+        "avg_loss": -906.647297283961,
+        "signal_count": {
+          "LONG": 27,
+          "SHORT": 15
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 47,
+        "wins": 18,
+        "losses": 29,
+        "win_rate": 38.297872340425535,
+        "total_pnl": -1104.9052570118322,
+        "final_balance": 3895.09474298817,
+        "return_pct": -22.098105140236605,
+        "max_drawdown": 73.36659779800469,
+        "avg_win": 1235.3640225096397,
+        "avg_loss": -804.8778504201841,
+        "signal_count": {
+          "LONG": 16,
+          "SHORT": 31
+        },
+        "year": "2025"
+      }
+    ],
+    "score": 161.61590038052307,
+    "all_profitable": false,
+    "min_wr": 37.142857142857146,
+    "max_dd": 81.55415915738689,
+    "avg_return": 139.00993298101113
+  },
+  {
+    "name": "rr_3.0",
+    "config": {
+      "name": "rr_3.0",
+      "trend_ma_short": 20,
+      "trend_ma_long": 50,
+      "use_dual_ma": true,
+      "rr_ratio": 3.0,
+      "nearby_range_pct": 0.8,
+      "cluster_threshold": 0.3
+    },
+    "results": [
+      {
+        "total_trades": 64,
+        "wins": 21,
+        "losses": 43,
+        "win_rate": 32.8125,
+        "total_pnl": 20368.30308594012,
+        "final_balance": 25368.30308594012,
+        "return_pct": 407.36606171880237,
+        "max_drawdown": 78.85021369412493,
+        "avg_win": 5274.511354578902,
+        "avg_loss": -2102.2426827957397,
+        "signal_count": {
+          "LONG": 42,
+          "SHORT": 22
+        },
+        "year": "2019"
+      },
+      {
+        "total_trades": 41,
+        "wins": 11,
+        "losses": 30,
+        "win_rate": 26.82926829268293,
+        "total_pnl": -6.079463894360288,
+        "final_balance": 4993.92053610564,
+        "return_pct": -0.12158927788719666,
+        "max_drawdown": 71.63880623119306,
+        "avg_win": 1052.387118766486,
+        "avg_loss": -386.07792567752364,
+        "signal_count": {
+          "LONG": 34,
+          "SHORT": 7
+        },
+        "year": "2020"
+      },
+      {
+        "total_trades": 31,
+        "wins": 8,
+        "losses": 23,
+        "win_rate": 25.806451612903224,
+        "total_pnl": -1320.85676656137,
+        "final_balance": 3679.143233438631,
+        "return_pct": -26.41713533122738,
+        "max_drawdown": 67.86784351280461,
+        "avg_win": 866.2638659928459,
+        "avg_loss": -358.7377258480059,
+        "signal_count": {
+          "LONG": 19,
+          "SHORT": 12
+        },
+        "year": "2021"
+      },
+      {
+        "total_trades": 40,
+        "wins": 14,
+        "losses": 26,
+        "win_rate": 35.0,
+        "total_pnl": 21688.358175941423,
+        "final_balance": 26688.358175941423,
+        "return_pct": 433.76716351882845,
+        "max_drawdown": 44.95573449041511,
+        "avg_win": 4319.361642808123,
+        "avg_loss": -1491.6424932066268,
+        "signal_count": {
+          "LONG": 15,
+          "SHORT": 25
+        },
+        "year": "2022"
+      },
+      {
+        "total_trades": 59,
+        "wins": 16,
+        "losses": 43,
+        "win_rate": 27.11864406779661,
+        "total_pnl": -1306.389777411597,
+        "final_balance": 3693.610222588401,
+        "return_pct": -26.12779554823198,
+        "max_drawdown": 93.5412350051757,
+        "avg_win": 734.9919385483627,
+        "avg_loss": -303.86653009733493,
+        "signal_count": {
+          "LONG": 37,
+          "SHORT": 22
+        },
+        "year": "2023"
+      },
+      {
+        "total_trades": 33,
+        "wins": 10,
+        "losses": 23,
+        "win_rate": 30.303030303030305,
+        "total_pnl": 2907.538265624059,
+        "final_balance": 7907.538265624058,
+        "return_pct": 58.15076531248117,
+        "max_drawdown": 49.03743621547046,
+        "avg_win": 1633.359459008036,
+        "avg_loss": -583.741579324187,
+        "signal_count": {
+          "LONG": 23,
+          "SHORT": 10
+        },
+        "year": "2024"
+      },
+      {
+        "total_trades": 42,
+        "wins": 12,
+        "losses": 30,
+        "win_rate": 28.57142857142857,
+        "total_pnl": -1401.559459928347,
+        "final_balance": 3598.440540071651,
+        "return_pct": -28.03118919856698,
+        "max_drawdown": 57.76308729958711,
+        "avg_win": 1551.9485190713758,
+        "avg_loss": -667.4980562928283,
+        "signal_count": {
+          "LONG": 16,
+          "SHORT": 26
+        },
+        "year": "2025"
+      }
+    ],
+    "score": 58.89068536762167,
+    "all_profitable": false,
+    "min_wr": 25.806451612903224,
+    "max_dd": 93.5412350051757,
+    "avg_return": 116.94089731345693
+  }
+]

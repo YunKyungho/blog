@@ -1,0 +1,63 @@
+[
+  {
+    "timestamp": "2026-02-02T22:20:19.456751",
+    "type": "REBALANCE",
+    "data": {
+      "type": "to_spot",
+      "amount": 12.15831178999997
+    }
+  },
+  {
+    "timestamp": "2026-02-02T23:14:35.384378",
+    "type": "ENTRY",
+    "data": {
+      "success": true,
+      "side": "SHORT",
+      "quantity": 0.257,
+      "entry_price": 77735.3,
+      "sl_price": 78124.0,
+      "tp_price": 77113.4,
+      "pullback": 0.7708215830043317
+    }
+  },
+  {
+    "timestamp": "2026-02-02T23:30:23.340807",
+    "type": "EXIT",
+    "data": {
+      "success": true,
+      "side": "SHORT",
+      "entry": 77745.7,
+      "pnl": -125.61062721,
+      "reason": "SL"
+    }
+  },
+  {
+    "timestamp": "2026-02-02T23:30:28.234505",
+    "type": "REBALANCE",
+    "data": {
+      "type": "from_spot",
+      "amount": 150.06364124999982
+    }
+  },
+  {
+    "timestamp": "2026-02-02T23:56:09.483933",
+    "type": "ENTRY",
+    "data": {
+      "success": true,
+      "side": "SHORT",
+      "quantity": 0.256,
+      "entry_price": 78127.8,
+      "sl_price": 78518.4,
+      "tp_price": 77502.8,
+      "pullback": 1.4960680675518887
+    }
+  },
+  {
+    "timestamp": "2026-02-03T05:35:45.152735",
+    "type": "REBALANCE",
+    "data": {
+      "type": "from_spot",
+      "amount": 125.23300563999965
+    }
+  }
+]
